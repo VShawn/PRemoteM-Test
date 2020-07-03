@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/</loc>
     <lastmod>2020-07-04T00:12:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/post/</loc>
     <lastmod>2020-07-04T00:12:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/quick_start/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/post/quick_start/</loc>
     <lastmod>2020-07-04T00:12:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/about/</loc>
     <lastmod>2020-07-04T00:12:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://vshawn.github.io/PRemoteM-Test/tags/</loc>
   </url>
   
 </urlset>
