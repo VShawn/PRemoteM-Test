@@ -32,7 +32,7 @@ draft: false
 完整说明： [链接](htt)
 1. 主页面点击 + 按钮添加服务器远程参数。
    
-   ![image](/Add2.jpg)
+   ![image](../../static/Add2.jpg)
 2. 双击服务器卡片启动远程会话。
    
     <img src="/Card2.jpg" width="300"/>
